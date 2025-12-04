@@ -1,7 +1,7 @@
 # Smart-Mining-Helmet-Industrial-IoT
 **Real-time Safety Monitoring System for Underground Coal Miners**
 
-![Smart Helmet System](docs/images/block_diagram.png)
+![](smart_mining_helmet_picture.png)
 
 ---
 
@@ -25,12 +25,14 @@ A **LoRa-ESP32 based intelligent safety helmet** designed to enhance miner safet
 
 ## System Architecture
 ## Block Diagram
-![Block Diagram](docs/images/block_diagram.png)
+![](transmitter_block_diagram.png)
+![](receiver_block_diagram.png)
 
 ---
 
 ## Circuit & Flow
-![Circuit Diagram](docs/images/block_diagram.png)
+![](Circuit_diagram.png)
+![](flow_diagram.png)
 
 ---
 
