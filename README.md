@@ -101,16 +101,6 @@ A **LoRa-ESP32 based intelligent safety helmet** designed to enhance miner safet
 
 ---
 
-## Documentation
-
-| File | Content |
-|------|--------|
-| `docs/research/mining_accidents.pdf` | Case studies & statistics |
-| `hardware/schematic.pdf` | Full circuit design |
-| `docs/images/*.png` | Diagrams & photos |
-
----
-
 ## License
 
 [MIT License](LICENSE) – Free to use, modify, and distribute.
